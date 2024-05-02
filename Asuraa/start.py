@@ -23,11 +23,7 @@ async def start(bot: Client, msg: Message):
             [
                 [
                     InlineKeyboardButton(text="💌 ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ 💌", callback_data="generate")
-                ],
-                [
-                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Ravan_Lankaa"),
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/God_Ravana")
-                ]
+                ]  
             ]
         ),
         disable_web_page_preview=True,
