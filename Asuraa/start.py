@@ -14,7 +14,7 @@ async def start(bot: Client, msg: Message):
         chat_id=msg.chat.id,
         text=f"""๏ нᴇʏ {msg.from_user.mention}, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ !
 
-๏ ɪ ᴀᴍ ‌ ‌{me2} ᴀɴᴅ ɪ ʜᴀᴠᴇ ᴛᴇʟᴇᴛʜᴏɴ ᴀɴᴅ ᴘʏʀᴏɢʀᴀᴍ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛɪɴɢ ғᴇᴀᴛᴜʀᴇs.
+๏ ɪ ᴀᴍ ‌{me2} ᴀɴᴅ ɪ ʜᴀᴠᴇ ᴛᴇʟᴇᴛʜᴏɴ ᴀɴᴅ ᴘʏʀᴏɢʀᴀᴍ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛɪɴɢ ғᴇᴀᴛᴜʀᴇs.
 
 ๏ ᴛʜɪs ɪs ᴍᴏsᴛ ᴛʀᴜsᴛᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.
 
